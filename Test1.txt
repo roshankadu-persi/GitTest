@@ -1,1 +1,7 @@
 something is here.
+
+class MyClass{
+	static void main(){
+		
+	}
+}
